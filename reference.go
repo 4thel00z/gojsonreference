@@ -32,7 +32,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/xeipuuv/gojsonpointer"
+	"github.com/4thel00z/gojsonpointer"
 )
 
 const (
